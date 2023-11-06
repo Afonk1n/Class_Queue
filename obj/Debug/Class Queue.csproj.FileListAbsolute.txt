@@ -1,0 +1,7 @@
+C:\Users\mafon\source\repos\Class Queue\bin\Debug\Class Queue.exe.config
+C:\Users\mafon\source\repos\Class Queue\bin\Debug\Class Queue.exe
+C:\Users\mafon\source\repos\Class Queue\bin\Debug\Class Queue.pdb
+C:\Users\mafon\source\repos\Class Queue\obj\Debug\Class Queue.csproj.AssemblyReference.cache
+C:\Users\mafon\source\repos\Class Queue\obj\Debug\Class Queue.csproj.CoreCompileInputs.cache
+C:\Users\mafon\source\repos\Class Queue\obj\Debug\Class Queue.exe
+C:\Users\mafon\source\repos\Class Queue\obj\Debug\Class Queue.pdb
